@@ -1,0 +1,9 @@
+{
+	"apiKey": "AIzaSyAZ1ZdTTTuRFRL4ddNIWEO7eMAO95OznpY",
+    "authDomain": "coali-bot-discord.firebaseapp.com",
+    "databaseURL": "https://coali-bot-discord-default-rtdb.firebaseio.com",
+    "projectId": "coali-bot-discord",
+    "storageBucket": "coali-bot-discord.appspot.com",
+    "messagingSenderId": "728217374916",
+    "appId": "1:728217374916:web:59b2b14ada2419b37cb991"
+}

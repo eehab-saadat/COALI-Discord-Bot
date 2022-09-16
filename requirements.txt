@@ -1,0 +1,6 @@
+git+https://github.com/nhorvath/Pyrebase4
+git+https://github.com/dateutil/dateutil/
+discord.py
+requests
+jishaku
+psutil
